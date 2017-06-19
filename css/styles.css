@@ -100,6 +100,32 @@ p {
 	line-height: 27px;
 	text-align: left;
 }
+p a:link {
+  color: #484848;
+  background-position: 0% 100%, 110% 90%, 0% 98%;
+  background-repeat: no-repeat, no-repeat, repeat-x;
+  -webkit-background-size: 2px 1px, 2px 1px, 1px 1px;
+  -moz-background-size: 2px 1px, 2px 1px, 1px 1px;
+  background-size: 2px 1px, 2px 1px, 1px 1px;
+  text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff;
+  background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#00a699, #00a699);
+}
+p a:visited {
+  color: #484848;
+}
+p a:hover {
+  color: #00a699;
+  background-position: 0% 100%, 110% 90%, 0% 98%;
+  background-repeat: no-repeat, no-repeat, repeat-x;
+  -webkit-background-size: 2px 1px, 2px 1px, 1px 1px;
+  -moz-background-size: 2px 1px, 2px 1px, 1px 1px;
+  background-size: 2px 1px, 2px 1px, 1px 1px;
+  text-shadow: 2px 0 #ffffff, -2px 0 #ffffff, 0 2px #ffffff, 0 -2px #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff, 2px 0 #ffffff, -2px 0 #ffffff;
+  background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#00a699, #00a699);
+}
+p a:active {
+  color: #484848;
+}
 .bi-line {
 	display: block;
   margin: 0 auto;
