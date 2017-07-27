@@ -1,6 +1,23 @@
-## Another Lens: Airbnb.Design x News Deeply
+# Another Lens: Airbnb.Design x News Deeply
 
 To help examine how bias influences our worldview, Airbnb Design partnered with News Deeply, a journalism startup dedicated to providing in-depth coverage of the world’s most critical challenges. The end result was Another Lens,  a research tool designed to help creatives minimize the impact of bias in their work.
+
+## Three Guiding Principles
+
+<p align="center">
+<img src="https://airbnb.design/anotherlens/img/balance.gif" alt="Balance your Bias"><br />
+Balance your Bias.
+</p>
+<p align="center">
+<img src="https://airbnb.design/anotherlens/img/opposite.gif" alt="Consider the opposite"><br />
+Consider the opposite.
+</p>
+<p align="center">
+<img src="https://airbnb.design/anotherlens/img/growth.gif" alt="Embrace a growth mindset"><br />
+Embrace a growth mindset.
+</p>
+
+## How to apply them
 
 It contains a set of guiding principles (balance your bias, consider the opposite, and embrace a growth mindset) and exercises that help creatives address skewered perspectives in their process in order to create more inclusive solutions.
 
