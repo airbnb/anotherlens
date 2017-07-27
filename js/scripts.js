@@ -47,3 +47,12 @@ function copyToClipboard(element) {
   document.execCommand("copy");
   $temp.remove();
 }
+
+$(document).keyup(function(e) {
+  if (e.keyCode == 27) { // esc keycode
+    $('.answer').removeClass('opened');
+    $('body').removeClass('noscroll');
+    $('.share').removeClass('opened');
+    $('#answer-close').removeClass('opened');
+  }
+});
