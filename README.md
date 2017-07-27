@@ -1,4 +1,4 @@
-# Another Lens: Airbnb.Design x News Deeply
+# Airbnb.Design x News Deeply
 
 To help examine how bias influences our worldview, Airbnb Design partnered with News Deeply, a journalism startup dedicated to providing in-depth coverage of the world’s most critical challenges. The end result was Another Lens,  a research tool designed to help creatives minimize the impact of bias in their work.
 
